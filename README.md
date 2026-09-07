@@ -16,10 +16,16 @@
 
 ## Screenshots
 
-![Home](screenshots/screenshot_1_home.jfif)
-![Crack Detection](screenshots/screenshot_crack_det.jpeg)
-![Gallery](screenshots/screenshot_2_gallary.jpeg)
-![Batch Processor](screenshots/screenshot3_batch_processor_page.jpeg)
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/screenshot_1_home.jfif" width="220" alt="Home"><br><sub>Home</sub></td>
+    <td align="center"><img src="screenshots/screenshot_crack_det.jpeg" width="220" alt="Crack Detection"><br><sub>Crack Detection</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/screenshot_2_gallary.jpeg" width="220" alt="Gallery"><br><sub>Gallery</sub></td>
+    <td align="center"><img src="screenshots/screenshot3_batch_processor_page.jpeg" width="220" alt="Batch Processor"><br><sub>Batch Processor</sub></td>
+  </tr>
+</table>
 
 ## Technology
 

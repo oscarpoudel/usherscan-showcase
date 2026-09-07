@@ -16,14 +16,10 @@
 
 ## Screenshots
 
-> Add your screenshots here. Recommended filenames:
-> `home.png`, `scanner.png`, `settings.png`, `gallery.png`, `batch.png`
-
-![Home](screenshots/home.png)
-![Scanner](screenshots/scanner.png)
-![Settings](screenshots/settings.png)
-![Gallery](screenshots/gallery.png)
-![Batch](screenshots/batch.png)
+![Home](screenshots/screenshot_1_home.jfif)
+![Crack Detection](screenshots/screenshot_crack_det.jpeg)
+![Gallery](screenshots/screenshot_2_gallary.jpeg)
+![Batch Processor](screenshots/screenshot3_batch_processor_page.jpeg)
 
 ## Technology
 

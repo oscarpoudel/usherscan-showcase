@@ -2,11 +2,11 @@
 
 ![Logo](assets/logo.png)
 
-**Advanced AI Crack Segmentation Scanner** — real-time concrete/structural crack detection built with Flutter + YOLO on-device inference.
+**Advanced AI Crack Segmentation Scanner** — real-time concrete/structural crack detection built with Flutter +  on-device inference.
 
 ## Features
 
-- **Real-time camera scanning** — live YOLO instance segmentation of cracks from your camera feed, with FPS counter and switchable front/rear camera
+- **Real-time camera scanning** — live e segmentation of cracks from your camera feed, with FPS counter and switchable front/rear camera
 - **On-device AI** — TensorFlow Lite model runs fully offline; no cloud, no internet required
 - **Batch image processing** — select multiple photos from your gallery and process them all at once with live progress tracking
 - **Adjustable segmentation controls** — mask opacity, mask thickness, confidence threshold, 4 mask color options, and background blur toggle — tweak live while scanning
@@ -32,7 +32,7 @@
 | Component | Tech |
 |-----------|------|
 | Framework | Flutter / Dart |
-| AI Model | YOLO instance segmentation (Ultralytics) |
+| AI Model |  instance segmentation (Ultralytics) |
 | Inference | TensorFlow Lite (on-device) |
 | Platforms | Android, iOS, macOS, Linux, Windows, Web |
 

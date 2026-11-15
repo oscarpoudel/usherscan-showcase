@@ -1,7 +1,7 @@
 # UsherScan (UScan)
 
 ![Logo](assets/logo.png)
-##Updated app available at :https://play.google.com/store/apps/details?id=com.usherscan.crackdetection
+## Updated app available at :https://play.google.com/store/apps/details?id=com.usherscan.crackdetection
 **Advanced AI Crack Segmentation Scanner** — real-time concrete/structural crack detection built with Flutter +  on-device inference.
 
 ## Features
